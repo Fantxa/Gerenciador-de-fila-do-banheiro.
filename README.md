@@ -1,4 +1,4 @@
-# 🚽 Fila do Banheiro (Restroom Queue)
+# 🚽 Fila do Banheiro (Restroom line manager)
 
 Aplicativo Android para **organizar a fila do banheiro em escolas** e lugares parecidos. O professor cadastra suas turmas, controla quem está na fila e quem saiu da sala, recebe um alerta quando alguém demora mais de 10 minutos e acompanha, em gráficos, os dias de maior movimento, sem nunca expor dados individuais.
 
