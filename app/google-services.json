@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690902644318",
+    "project_id": "androidapp-25f9b",
+    "storage_bucket": "androidapp-25f9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690902644318:android:004d60a086be29ae90e6cf",
+        "android_client_info": {
+          "package_name": "com.example.restroomqueue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690902644318-m8a428ia25o1cir5s8g0fc42tjeh2a3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmKq53MsCKoSMVpOPqyRdqeX2kqJB1Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690902644318-m8a428ia25o1cir5s8g0fc42tjeh2a3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
